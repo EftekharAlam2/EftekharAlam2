@@ -11,7 +11,7 @@
 
 - 📫 You can reach me through **eftekharans0@gmail.com**
 
-- 📄 [Resume](https://drive.google.com/file/d/15pwQ3VOspaltEwrwkN9A869z9_L1pPD4/view?usp=drive_link)
+- 📄 [Resume](https://drive.google.com/file/d/1fcNSwgYyC-g2NnO2ZUH5YdLofqGAX9Bj/view?usp=drive_link)
 
 <br>
 
