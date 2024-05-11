@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
-- 💬 Feel free to ask me anything about **HTML, CSS, Bootstrap, Tailwind, JavaScript, Node.js, React.js, Express.js, MongoDB, Firebase, npm, RESTful APIs**
+- 💬 Feel free to ask me anything about **HTML, CSS, Bootstrap, Tailwind, JavaScript, Laravel, Vue.js, MySQL, Node.js, React.js, Express.js, MongoDB, Firebase, npm, RESTful APIs**
 
 - 📫 You can reach me through **eftekharans0@gmail.com**
 
