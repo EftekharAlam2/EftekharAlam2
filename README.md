@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Md Eftekharul Alam</h1>
-<h3 align="center">Passionate software and web developer dedicated to creating seamless digital experiences with a focus on user-centric design and efficient coding practices.</h3>
+<!-- <h3 align="center">Passionate software and web developer dedicated to creating seamless digital experiences with a focus on user-centric design and efficient coding practices.</h3> -->
 
 <br>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I’m currently expanding my knowledge in **new tools, technologies, and programming languages** to stay updated
 
-- 💬 Feel free to ask me anything about **HTML, CSS, Bootstrap, Tailwind, JavaScript, Laravel, Vue.js, MySQL, Node.js, React.js, Express.js, MongoDB, Firebase, npm, RESTful APIs**
+- 💬 Feel free to ask me anything about **HTML, CSS, Bootstrap, Tailwind, JavaScript, TypeScript, Laravel, Vue.js, Next.js, MySQL, Node.js, React.js, Express.js, MongoDB, Firebase, npm, RESTful APIs, RabbitMQ**
 
 - 📫 You can reach me through **eftekharans0@gmail.com**
+
+- 🎓 I’m pursuing a **Master's in Computer Science and Engineering** (evening program) at **Rajshahi University.**
+
+- 💼 I work as a **Junior Software Engineer** at **Business Automation Ltd.**
 
 <!-- - 📄 [Resume](https://drive.google.com/file/d/1gLxRZ16__f9tIrGDkk33_UKnFTmJQ7sA/view?usp=sharing) -->
 
