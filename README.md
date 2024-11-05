@@ -5,6 +5,8 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
+<br>
+
 - 🌱 I’m currently expanding my knowledge in **new tools, technologies, and programming languages** to stay updated
 
 - 💬 Feel free to ask me anything about **HTML, CSS, Bootstrap, Tailwind, JavaScript, TypeScript, Laravel, Vue.js, Next.js, MySQL, Node.js, React.js, Express.js, MongoDB, Firebase, npm, RESTful APIs, RabbitMQ**
@@ -17,7 +19,6 @@
 
 <!-- - 📄 [Resume](https://drive.google.com/file/d/1gLxRZ16__f9tIrGDkk33_UKnFTmJQ7sA/view?usp=sharing) -->
 
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
