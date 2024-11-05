@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<p>&nbsp;</p><p>&nbsp;</p>
+<p>&nbsp;</p>
 
 - 🌱 I’m currently expanding my knowledge in **new tools, technologies, and programming languages** to stay updated
 
